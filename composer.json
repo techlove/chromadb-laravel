@@ -19,7 +19,7 @@
     "require": {
         "php": "^8.4",
         "laravel/framework": "^12.0.1",
-        "codewithkyrian/chromadb-php": "^0.1.0"
+        "codewithkyrian/chromadb-php": "^0.3.0"
     },
     "require-dev": {
         "pestphp/pest": "^v3.7.4",
